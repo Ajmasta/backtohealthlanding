@@ -1,26 +1,29 @@
 {
   "files": {
     "main.css": "/backtohealthlanding/static/css/main.106baaae.chunk.css",
-    "main.js": "/backtohealthlanding/static/js/main.8aec3c7d.chunk.js",
-    "main.js.map": "/backtohealthlanding/static/js/main.8aec3c7d.chunk.js.map",
+    "main.js": "/backtohealthlanding/static/js/main.ad06a60f.chunk.js",
+    "main.js.map": "/backtohealthlanding/static/js/main.ad06a60f.chunk.js.map",
     "runtime-main.js": "/backtohealthlanding/static/js/runtime-main.bae18e1a.js",
     "runtime-main.js.map": "/backtohealthlanding/static/js/runtime-main.bae18e1a.js.map",
-    "static/js/2.bb3b9ec4.chunk.js": "/backtohealthlanding/static/js/2.bb3b9ec4.chunk.js",
-    "static/js/2.bb3b9ec4.chunk.js.map": "/backtohealthlanding/static/js/2.bb3b9ec4.chunk.js.map",
+    "static/js/2.14480987.chunk.js": "/backtohealthlanding/static/js/2.14480987.chunk.js",
+    "static/js/2.14480987.chunk.js.map": "/backtohealthlanding/static/js/2.14480987.chunk.js.map",
     "static/js/3.1fa20d0b.chunk.js": "/backtohealthlanding/static/js/3.1fa20d0b.chunk.js",
     "static/js/3.1fa20d0b.chunk.js.map": "/backtohealthlanding/static/js/3.1fa20d0b.chunk.js.map",
     "index.html": "/backtohealthlanding/index.html",
     "static/css/main.106baaae.chunk.css.map": "/backtohealthlanding/static/css/main.106baaae.chunk.css.map",
-    "static/js/2.bb3b9ec4.chunk.js.LICENSE.txt": "/backtohealthlanding/static/js/2.bb3b9ec4.chunk.js.LICENSE.txt",
+    "static/js/2.14480987.chunk.js.LICENSE.txt": "/backtohealthlanding/static/js/2.14480987.chunk.js.LICENSE.txt",
+    "static/media/BacktoHealthLogo2.417dfc0b.png": "/backtohealthlanding/static/media/BacktoHealthLogo2.417dfc0b.png",
+    "static/media/Checklist.8a69b3cb.png": "/backtohealthlanding/static/media/Checklist.8a69b3cb.png",
     "static/media/background1.74d56b6a.png": "/backtohealthlanding/static/media/background1.74d56b6a.png",
-    "static/media/data.f0174941.png": "/backtohealthlanding/static/media/data.f0174941.png",
-    "static/media/exercice.34f95691.png": "/backtohealthlanding/static/media/exercice.34f95691.png",
+    "static/media/background2.60178587.gif": "/backtohealthlanding/static/media/background2.60178587.gif",
+    "static/media/biopsychosociallogo.5b4c5ad7.png": "/backtohealthlanding/static/media/biopsychosociallogo.5b4c5ad7.png",
+    "static/media/calendar.66b05124.png": "/backtohealthlanding/static/media/calendar.66b05124.png",
     "static/media/logo.6ce24c58.svg": "/backtohealthlanding/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bae18e1a.js",
-    "static/js/2.bb3b9ec4.chunk.js",
+    "static/js/2.14480987.chunk.js",
     "static/css/main.106baaae.chunk.css",
-    "static/js/main.8aec3c7d.chunk.js"
+    "static/js/main.ad06a60f.chunk.js"
   ]
 }
