@@ -1,26 +1,25 @@
 {
   "files": {
     "main.css": "/backtohealthlanding/static/css/main.106baaae.chunk.css",
-    "main.js": "/backtohealthlanding/static/js/main.2040f5d0.chunk.js",
-    "main.js.map": "/backtohealthlanding/static/js/main.2040f5d0.chunk.js.map",
+    "main.js": "/backtohealthlanding/static/js/main.a4a110eb.chunk.js",
+    "main.js.map": "/backtohealthlanding/static/js/main.a4a110eb.chunk.js.map",
     "runtime-main.js": "/backtohealthlanding/static/js/runtime-main.bae18e1a.js",
     "runtime-main.js.map": "/backtohealthlanding/static/js/runtime-main.bae18e1a.js.map",
-    "static/js/2.909cf5d2.chunk.js": "/backtohealthlanding/static/js/2.909cf5d2.chunk.js",
-    "static/js/2.909cf5d2.chunk.js.map": "/backtohealthlanding/static/js/2.909cf5d2.chunk.js.map",
+    "static/js/2.bb3b9ec4.chunk.js": "/backtohealthlanding/static/js/2.bb3b9ec4.chunk.js",
+    "static/js/2.bb3b9ec4.chunk.js.map": "/backtohealthlanding/static/js/2.bb3b9ec4.chunk.js.map",
     "static/js/3.1fa20d0b.chunk.js": "/backtohealthlanding/static/js/3.1fa20d0b.chunk.js",
     "static/js/3.1fa20d0b.chunk.js.map": "/backtohealthlanding/static/js/3.1fa20d0b.chunk.js.map",
     "index.html": "/backtohealthlanding/index.html",
     "static/css/main.106baaae.chunk.css.map": "/backtohealthlanding/static/css/main.106baaae.chunk.css.map",
-    "static/js/2.909cf5d2.chunk.js.LICENSE.txt": "/backtohealthlanding/static/js/2.909cf5d2.chunk.js.LICENSE.txt",
+    "static/js/2.bb3b9ec4.chunk.js.LICENSE.txt": "/backtohealthlanding/static/js/2.bb3b9ec4.chunk.js.LICENSE.txt",
     "static/media/background1.74d56b6a.png": "/backtohealthlanding/static/media/background1.74d56b6a.png",
-    "static/media/logo.6ce24c58.svg": "/backtohealthlanding/static/media/logo.6ce24c58.svg",
-    "static/media/phone.c7b8b9e1.jpg": "/backtohealthlanding/static/media/phone.c7b8b9e1.jpg",
-    "static/media/phoneExo.ef9de216.jpg": "/backtohealthlanding/static/media/phoneExo.ef9de216.jpg"
+    "static/media/exercice.34f95691.png": "/backtohealthlanding/static/media/exercice.34f95691.png",
+    "static/media/logo.6ce24c58.svg": "/backtohealthlanding/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bae18e1a.js",
-    "static/js/2.909cf5d2.chunk.js",
+    "static/js/2.bb3b9ec4.chunk.js",
     "static/css/main.106baaae.chunk.css",
-    "static/js/main.2040f5d0.chunk.js"
+    "static/js/main.a4a110eb.chunk.js"
   ]
 }
