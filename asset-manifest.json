@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/backtohealthlanding/static/css/main.106baaae.chunk.css",
-    "main.js": "/backtohealthlanding/static/js/main.a4a110eb.chunk.js",
-    "main.js.map": "/backtohealthlanding/static/js/main.a4a110eb.chunk.js.map",
+    "main.js": "/backtohealthlanding/static/js/main.aefc7312.chunk.js",
+    "main.js.map": "/backtohealthlanding/static/js/main.aefc7312.chunk.js.map",
     "runtime-main.js": "/backtohealthlanding/static/js/runtime-main.bae18e1a.js",
     "runtime-main.js.map": "/backtohealthlanding/static/js/runtime-main.bae18e1a.js.map",
     "static/js/2.bb3b9ec4.chunk.js": "/backtohealthlanding/static/js/2.bb3b9ec4.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.bae18e1a.js",
     "static/js/2.bb3b9ec4.chunk.js",
     "static/css/main.106baaae.chunk.css",
-    "static/js/main.a4a110eb.chunk.js"
+    "static/js/main.aefc7312.chunk.js"
   ]
 }
